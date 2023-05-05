@@ -1,2 +1,19 @@
 # decodificador
-Challenge-Alura 01
+Challenge-Alura-One / Codificador e Decodificador de texto.
+
+*Desafio: Construir um decodificador de texto com Javascript
+
+Requisitos: 
+- Deve funcionar apenas com letras minúsculas
+- Não devem ser utilizados letras com acentos nem caracteres especiais
+- Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original
+- A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções
+ - O resultado deve ser exibido na tela.
+ 
+ 
+Desenvolvimento foi utilizado:
+* HTML
+* CSS
+* JAVASCRIPT
+
+Layout: ![Captura de tela 2023-05-04 210955](https://user-images.githubusercontent.com/93100302/236355657-e049e263-2e9c-4cca-9d17-97558d5b2af5.png)
