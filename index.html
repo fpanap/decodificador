@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador de Texto - ONE Challenges</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <section class="campo">
+            <img src="/images/logo.svg" class="logo" alt="logoalura">
+            <dialog class="msg-erro">
+                <img src="/images/imginfo.svg">
+                <p>Texto inválido, digite apenas letras minúsculas e sem acento</p>
+                <button class="bnt-ok">OK</button>
+            </dialog>
+
+            <textarea class="texto" placeholder="Digite seu texto..."></textarea>
+
+            <p class="informacao"><img src="/images/imginfo.svg" class="img-exclamacao" alt="ponto de exclamacao"> Apenas letras minúsculas e sem acento.</p>
+
+            <div class="bnt-container">
+                <button class="bnt-criptografar">Criptografar</button>
+                <button class="bnt-descriptografar">Descriptografar</button>
+            </div>
+        </section>
+
+        <section class="resultado">
+            <textarea class="txt-resultado" placeholder="Digite o Texto aqui" readonly ></textarea>
+
+            <div class="visibilidade">
+                <img src="/images/boneco.svg" alt="desenho de um menino com uma lupa">
+
+                <h3>Nenhuma mensagem encontrada</h3>
+                <p>Digite um texto que você deseja criptografar ou descriptografar.</p>
+            </div>
+
+            <button class="bnt-copiar">Copiar</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por Ana Ferreira</p>
+        <p>
+            <a href="https://github.com/fpanap"><img src="/images/github.svg" alt="logo do github"></a>
+            <a href="https://www.linkedin.com/in/ana-paula-ferreira-063709205/"><img src="/images/linkedin.svg" alt="logo do linkedin"></a>
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
