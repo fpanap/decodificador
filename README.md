@@ -11,7 +11,7 @@ Requisitos:
  - O resultado deve ser exibido na tela.
  
  
-Desenvolvimento foi utilizado:
+Foi utilizado:
 * HTML
 * CSS
 * JAVASCRIPT
