@@ -17,3 +17,8 @@ Foi utilizado:
 * JAVASCRIPT
 
 Layout: ![Captura de tela 2023-05-04 210955](https://user-images.githubusercontent.com/93100302/236355657-e049e263-2e9c-4cca-9d17-97558d5b2af5.png)
+
+
+Badges recebido:
+<br>
+![cms_files_10224_1671211139Prancheta_3](https://github.com/fpanap/decodificador/assets/93100302/d330fe8d-e77d-458e-a5ce-3a0c11f87727)
